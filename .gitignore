@@ -27,8 +27,8 @@ js_parallel-*.tar
 /tmp
 
 # To ignore all the outputs generated
-/jsTOhtml_iter/*
+/jsTOhtml_iter/*.html
 
-/jsTOhtml_para/js/*
-/jsTOhtml_para/moreJS/*
-/jsTOhtml_para/zzJS/*
+/jsTOhtml_para/js/*.html
+/jsTOhtml_para/moreJS/*.html
+/jsTOhtml_para/zzJS/*.html

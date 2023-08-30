@@ -27,7 +27,7 @@ Overall, this project provides a way to convert JavaScript code into HTML with s
 
 ## How to run
 
-To run this project, yo first have to install Erlang and Elixir in your system. Check out the official documentation where it clearly explains how to do this: https://elixir-lang.org/install.html
+To run this project, you first have to install Erlang and Elixir in your system. Check out the official documentation where it clearly explains how to do this: https://elixir-lang.org/install.html
 
 #### 1. Install dependencies
 Inside the project directory, you need to install the dependecies of the project running this command:
